@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dtwit\\OneDrive\\Desktop\\My_VC\u002B\u002B_WorkSpace\\AP_LRs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B39200-0E31-4378-89F5-5E0B8A599E25}|AP_LRs.vcxproj|C:\\Users\\dtwit\\OneDrive\\Desktop\\My_VC\u002B\u002B_WorkSpace\\AP_LRs\\LR-3_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2B39200-0E31-4378-89F5-5E0B8A599E25}|AP_LRs.vcxproj|solutionrelative:LR-3_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR-3_1.cpp",
+              "DocumentMoniker": "C:\\Users\\dtwit\\OneDrive\\Desktop\\My_VC\u002B\u002B_WorkSpace\\AP_LRs\\LR-3_1.cpp",
+              "RelativeDocumentMoniker": "LR-3_1.cpp",
+              "ToolTip": "C:\\Users\\dtwit\\OneDrive\\Desktop\\My_VC\u002B\u002B_WorkSpace\\AP_LRs\\LR-3_1.cpp",
+              "RelativeToolTip": "LR-3_1.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-28T09:46:33.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

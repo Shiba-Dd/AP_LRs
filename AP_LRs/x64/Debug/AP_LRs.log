@@ -1,0 +1,4 @@
+﻿  LR-3_1.cpp
+C:\Users\dtwit\OneDrive\Desktop\My_VC++_WorkSpace\AP_LRs\LR-3_1.cpp(11,12): warning C4101: 'B': unreferenced local variable
+C:\Users\dtwit\OneDrive\Desktop\My_VC++_WorkSpace\AP_LRs\LR-3_1.cpp(10,12): warning C4101: 'A': unreferenced local variable
+  AP_LRs.vcxproj -> C:\Users\dtwit\OneDrive\Desktop\My_VC++_WorkSpace\AP_LRs\x64\Debug\AP_LRs.exe
