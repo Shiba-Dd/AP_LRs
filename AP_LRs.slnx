@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="AP_LRs.vcxproj" />
+  <Project Path="AP_LRs.vcxproj" Id="e2b39200-0e31-4378-89f5-5e0b8a599e25" />
 </Solution>
