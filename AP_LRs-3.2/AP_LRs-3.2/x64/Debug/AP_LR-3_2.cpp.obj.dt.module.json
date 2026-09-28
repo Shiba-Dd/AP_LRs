@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AP_LRs-3.2\\x64\\Debug\\AP_LR-3_2.obj",
+            "outputs": [
+                "AP_LRs-3.2\\x64\\Debug\\AP_LR-3_2.cpp.obj.dt.module.json",
+                "AP_LRs-3.2\\x64\\Debug\\AP_LR-3_2.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
